@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**Naresh9313/Naresh9313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Naresh Prajapati</h1>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building modern web applications with passion 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Working on Full Stack Development
+- 🌱 Learning TypeScript and PostgreSQL
+- 💻 Skilled in React.js, Node.js and MongoDB
+- 🚀 Project: Personal Expense Tracker
+- 🎯 Goal: Become an expert Full Stack Developer
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB, PostgreSQL
+- Language: TypeScript
+- Tools: Git, GitHub, VS Code
+
+## 🚀 Featured Project
+
+### Personal Expense Tracker
+
+Live Demo:
+https://personal-expense-tracker-5648.vercel.app/
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
