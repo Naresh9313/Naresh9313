@@ -1,40 +1,73 @@
 
-<h1 align="center">Hi 👋, I'm Naresh Prajapati</h1>
+<h1 align="center">Naresh Prajapati</h1>
 <h3 align="center">Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  Building modern web applications with passion 🚀
+  Developing scalable, responsive and user-focused web applications.
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="https://github.com/Naresh9313">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://personal-expense-tracker-5648.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Project-2563EB?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-- 🔭 Working on Full Stack Development
-- 🌱 Learning TypeScript and PostgreSQL
-- 💻 Skilled in React.js, Node.js and MongoDB
-- 🚀 Project: Personal Expense Tracker
-- 🎯 Goal: Become an expert Full Stack Developer
+---
 
-## 🛠️ Tech Stack
+### ABOUT
 
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB, PostgreSQL
-- Language: TypeScript
-- Tools: Git, GitHub, VS Code
+I am a Full Stack Developer passionate about building modern web applications.
 
-## 🚀 Featured Project
+- Focused on MERN Stack Development.
+- Experienced with frontend and backend technologies.
+- Interested in clean architecture and scalable applications.
+- Continuously learning modern development technologies.
 
-### Personal Expense Tracker
+### TECHNICAL SKILLS
 
-Live Demo:
-https://personal-expense-tracker-5648.vercel.app/
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,ts,postgres,git,github,vscode" />
+</p>
 
-## 📊 GitHub Statistics
+### PROFESSIONAL EXPERIENCE
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+**Full Stack Developer — Kera Infotech**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+September 2026 – November 2026
 
-## 🤝 Connect With Me
+- Worked with MERN Stack development.
+- Worked with TypeScript and PostgreSQL.
+- Developed and improved web application features.
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+### FEATURED PROJECT
+
+**Personal Expense Tracker**
+
+A web application designed to manage and track personal expenses.
+
+- Live Application: [View Project](https://personal-expense-tracker-5648.vercel.app/)
+- Technologies: TypeScript, PostgreSQL
+
+### GITHUB ANALYTICS
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naresh9313&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh9313&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" />
+</p>
+
+### CONNECT
+
+<p>
+<a href="https://github.com/Naresh9313">
+<img src="https://img.shields.io/badge/GitHub-Naresh9313-181717?style=flat-square&logo=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. Every Day.</i>
+</p>
